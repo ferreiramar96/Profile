@@ -1,8 +1,49 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ferreiramar96/Data_Science/main/iaa.png">
+</p>
+  
+</br>
+</br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# <p align="center">💡 Transformando Dados em Soluções Impactantes
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Sou um Cientista de Dados capaz de tirar insights dos dados, e agregar valor para a empresa nas tomadas de decisão baseadas no Data Driven. Estou na área a cerca de 2 anos, sou altamente dedicado e comprometido com o projeto em que estou trabalhando, dando o meu máximo para trazer o melhor resultado possível e mantendo sempre o pensando inovador para resolver os problemas. Realizo projetos de análise, modelos de machine learning, transformação, preparação e visualização dos dados, tirando o máximo de insights possíveis.
+
+<p align="center">
+
+### <p align="center"> 👉 Aperte [AQUI](https://github.com/ferreiramar96/Data_Science/tree/main) Para Ver Meu Portifolio de Data Science 👈 
+</p>
+<br/>
+
+## 🔎 Áreas de Estudo e Atuação
+### Engenharia de Software
+Com previsão de formatura para Junho de 2025, sou estudante de engenharia de software pela *Universidade Estácio de Sá*. Com ênfase para o campo de desenvolvimento de boas práticas e ferramentas para um ambiente de *Big Data* e também gestão e aplicação de *Metodologias Ágeis* e *OKR's* em projetos.
+
+### Data Science Na Prática
+Curso do *Sigmoidal* com duração de 2 anos (2023-2025), curso com todos os assuntos e melhores metodologias da ciência de dados, tais como: *Decisões Baseada em Dados*, *Análise e Visualização de Dados*, *Data Storytelling*, *Indrudução ao Machine Learning*, *Técnicas Avançadas de Machine Learning(Auto ML)*, *Deep Learning* e *Deploy de Aplicação*. 
+
+<br>
+
+
+## Linguagens e Bibliotecas
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Anaconda" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Jupyter" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Jupyter" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="NumPy" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="TensorFlow" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="TensorFlow" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg">
+  <img align="center" alt="Solidity" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+</div>
+</br>
+
+
+<hr>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferreiramar96&theme=nord_bright" width="35%">
+
+<a href="https://www.linkedin.com/in/felipeferreiratids/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
