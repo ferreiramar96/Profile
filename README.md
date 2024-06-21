@@ -21,7 +21,7 @@ Sou um Cientista de Dados capaz de tirar insights dos dados, e agregar valor par
 Com previsão de formatura para Junho de 2025, sou estudante de engenharia de software pela *Universidade Estácio de Sá*. Com ênfase para o campo de desenvolvimento de boas práticas e ferramentas para um ambiente de *Big Data* e também gestão e aplicação de *Metodologias Ágeis* e *OKR's* em projetos.
 
 ### Data Science Na Prática
-Curso do *Sigmoidal* com duração de 2 anos (2023-2025), curso com todos os assuntos e melhores metodologias da ciência de dados, tais como: *Decisões Baseada em Dados*, *Análise e Visualização de Dados*, *Data Storytelling*, *Indrudução ao Machine Learning*, *Técnicas Avançadas de Machine Learning(Auto ML)*, *Deep Learning* e *Deploy de Aplicação*. 
+Curso do *Sigmoidal* com duração de 2 anos (2023-2025), curso com todos os assuntos e melhores metodologias da ciência de dados, tais como: *Decisões Baseada em Dados*, *Estatística*, *Análise e Visualização de Dados*, *Data Storytelling*, *Web Scraping*, *Indrudução ao Machine Learning*, *Técnicas Avançadas de Machine Learning(Auto ML)*, *Deep Learning* e *Deploy de Aplicação*. 
 
 <br>
 
